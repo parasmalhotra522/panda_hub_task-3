@@ -19,7 +19,7 @@ This project demonstrates the implementation of a network/API call using **Axios
 ## Installation
 
 1. **Clone the Repository:**
-   git clone <your-repo-url>
+   git clone <(https://github.com/parasmalhotra522/panda_hub_task-3.git)>
    cd axios-typescript-task
 
 2. **Install Dependencies:** 
